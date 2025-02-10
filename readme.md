@@ -29,8 +29,8 @@
 
 ## Open a jupyter lab
 - On your command line
-- `git clone `
-- `cd notebooks`
+- `git clone https://github.com/sgkang/geol_4330_canada_wide_gravity.git`
+- `cd geol_4330_canada_wide_gravity`
 - `jupyter lab`
 
 
