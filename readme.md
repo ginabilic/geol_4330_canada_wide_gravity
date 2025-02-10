@@ -36,3 +36,7 @@
 - `jupyter lab`
 
 ## Make a github account and let Seogi know
+
+## Download QGIS
+- https://qgis.org/
+
