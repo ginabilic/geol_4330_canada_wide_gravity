@@ -14,4 +14,8 @@
 
 ## Download Anaconda
 - https://www.anaconda.com/download
+
+## Make a conda environment
+- `conda create --name geol_4330 python=3.9 numpy scipy pandas geopandas`
+- https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
 - 
