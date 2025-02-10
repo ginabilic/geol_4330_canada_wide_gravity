@@ -26,6 +26,7 @@
 
 - https://geophysical-data.canada.ca/
 - Download the `Gravity - CSV Point Data`
+- Name of the file is `Canada_Gravity_2018.csv`
 
 ## Open a jupyter lab
 - On your command line
