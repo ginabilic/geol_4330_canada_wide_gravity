@@ -35,4 +35,4 @@
 - `conda activate geol_4330`
 - `jupyter lab`
 
-
+## Make a github account and let Seogi know
