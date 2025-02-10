@@ -18,4 +18,10 @@
 ## Make a conda environment
 - `conda create --name geol_4330 python=3.9 numpy scipy pandas geopandas jupyter`
 - https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
-- 
+
+## Start a jupyter lab
+- `jupyter lab` (on your command line)
+
+## Access to the Canadian geophysical data
+
+https://geophysical-data.canada.ca/
