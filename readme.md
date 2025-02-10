@@ -31,6 +31,7 @@
 - On your command line
 - `git clone https://github.com/sgkang/geol_4330_canada_wide_gravity.git`
 - `cd geol_4330_canada_wide_gravity`
+- `conda activate geol_4330`
 - `jupyter lab`
 
 
