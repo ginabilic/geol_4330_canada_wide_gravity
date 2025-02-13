@@ -19,21 +19,17 @@
 - `conda create --name geol_4330 python=3.9 numpy scipy pandas geopandas jupyter git`
 - https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
 
-## Start a jupyter lab
-- `jupyter lab` (on your command line)
-
-## Access to the Canadian geophysical data
-
-- https://geophysical-data.canada.ca/
-- Download the `Gravity - CSV Point Data`
-- Name of the file is `Canada_Gravity_2018.csv`
-
 ## Open a jupyter lab
 - On your command line
 - `git clone https://github.com/sgkang/geol_4330_canada_wide_gravity.git`
 - `cd geol_4330_canada_wide_gravity`
 - `conda activate geol_4330`
 - `jupyter lab`
+
+## Access to the Canadian geophysical data
+- https://geophysical-data.canada.ca/
+- Download the `Gravity - CSV Point Data`
+- Name of the file is `Canada_Gravity_2018.csv`
 
 ## Make a github account and let Seogi know
 
